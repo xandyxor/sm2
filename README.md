@@ -1,6 +1,6 @@
 # iKaros Monitoring and Analytics for Social Media
 iKaros 輿情分析系統
-透過sockit io與server溝通
+透過socketio與server溝通
 
 
 ## How to use?
